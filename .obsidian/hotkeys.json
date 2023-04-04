@@ -1,0 +1,20 @@
+{
+  "obsidian-zotero-desktop-connector:zdc-exp-Import #1": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-Import #1-for-links": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ]
+}

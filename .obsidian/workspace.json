@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "a2cc44d3cff561e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "845ea263727dd841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3259423c6176b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zotero-imports/MachineLearningBasedFacial_iyer_2021.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80771a5bb8b938e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84e0b93b48958a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zotero_template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "526697f09899ea90",
+    "type": "split",
+    "children": [
+      {
+        "id": "b593636d4e7a70a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ce3c8fb59480b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d9b60364ae6693b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "753ccded10c4c235",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285
+  },
+  "right": {
+    "id": "9177e7ae5ac227d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d78edf89cf8ef2ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eef7078b02cef3bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_zotero-imports/MachineLearningBasedFacial_iyer_2021.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdeafc361de9d3e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_zotero-imports/MachineLearningBasedFacial_iyer_2021.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8b7228d3bd3a872",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ebc8aab9e6ed9ab5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_zotero-imports/MachineLearningBasedFacial_iyer_2021.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "6e0dabde3eb0fd99",
+    "type": "floating",
+    "children": [
+      {
+        "id": "17992d6af5181664",
+        "type": "window",
+        "children": [
+          {
+            "id": "65bb85eff6926f42",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "160b859801382650",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "test.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1213,
+        "y": -104,
+        "width": 1109,
+        "height": 708,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d3259423c6176b76",
+  "lastOpenFiles": [
+    "test.md",
+    "zotero_template.md",
+    "_zotero-imports/MachineLearningBasedFacial_iyer_2021.md",
+    "{{annotation.imageRelativePath}}.md",
+    "_zotero-imports",
+    "_zotero-imgages/MachineLearningBasedFacial_iyer_2021image-4-x167-y559.png",
+    "_zotero-imgages/MachineLearningBasedFacial_iyer_2021image-9-x36-y75.png",
+    "_zotero-imgages/MachineLearningBasedFacial_iyer_2021image-6-x46-y562.png",
+    "_zotero-imgages/MachineLearningBasedFacial_iyer_2021image-4-x45-y208.png",
+    "_zotero-imgages/MachineLearningBasedFacial_iyer_2021image-4-x44-y334.png",
+    "_zotero-imgages/MachineLearningBasedFacial_iyer_2021image-3-x44-y497.png",
+    "_zotero-imgages",
+    "_zotero-imports/iyerMachineLearningBasedFacial2021.md",
+    "_zotero-imgages/iyerMachineLearningBasedFacial2021image-9-x36-y75.png",
+    "_zotero-imgages/iyerMachineLearningBasedFacial2021image-6-x46-y562.png",
+    "_zotero-imgages/iyerMachineLearningBasedFacial2021image-4-x45-y208.png",
+    "_zotero-imgages/iyerMachineLearningBasedFacial2021image-4-x44-y334.png",
+    "melvina.shiffmanBreastAugmentation2009.md",
+    "_zotero-img"
+  ]
+}
